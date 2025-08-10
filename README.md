@@ -6,7 +6,7 @@ A simple React application that allows users to increment/decrement a counter, a
 
 ## Demo
 
-Link: 
+Link: https://raiqa-health-assignment-one.vercel.app
 
 ## Tech Stack
 HTML, CSS, JS, React, React Hooks, useState for state management, React Router, Vite, Github, and vercel for hosting the repository.
